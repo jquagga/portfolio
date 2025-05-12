@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my portfolio site! I'm told that it is good practice for data analysts to keep a [portfolio](/portfolio/) of some of their projects in order to demonstrate their skills. The link above should allow you to view several projects I've been working on and I will add more as I build more out. If you're interested in talking, feel free to reach out with email or on LinkedIn.
+Welcome to my portfolio site! I'm understand data analysts keep a [portfolio](/portfolio/) of some of their projects in order to demonstrate their skills. The link above will take you to several projects I’ve been working on—feel free to explore them, and I’ll continue adding more as I develop new models. If you’d like to connect or discuss my work, don’t hesitate to reach out via email or LinkedIn.
 
 See you out there!
 
