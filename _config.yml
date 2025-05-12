@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale: "en-US"
 site_theme: "default"
-title: "Justin Settle / Portfolio"
+title: "Justin's Portfolio"
 title_separator: "-"
-name: &name "Justin Settle"
-description: &description "personal description"
+name: &name "Justin"
+description: &description "A data analyst's portfolio"
 url: https://jquagga.github.io/portfolio # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "jquagga/portfolio"
@@ -22,12 +22,12 @@ repository: "jquagga/portfolio"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar: "profile.png"
+  avatar: "leaf.jpg"
   name: "Justin Settle"
   pronouns: # example: "she/her"
-  bio: "Short biography for the left-hand sidebar"
+  bio: "AI says I'm a Seasoned Data Analyst!"
   location: "Earth"
-  employer: "USGS"
+  employer: #
   uri: # URL
   email: "jsettle @ duck.org"
 
@@ -60,7 +60,7 @@ author:
   keybase: # Username
   instagram: # Username
   lastfm: # Username
-  linkedin: # Username
+  linkedin: "settlej"
   mastodon: # URL
   medium: # URL
   pinterest: # Username
@@ -89,7 +89,7 @@ author:
 teaser: # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs: false # true, false (default)
 words_per_minute: 160
-future: true
+future: false
 read_more: "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link: false #change to true to add link to talkmap on talks page
 comments:
@@ -119,7 +119,7 @@ staticman:
       options:
         format: "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide: false # change to true to hide the RSS feed in the footer
+  hide: true # change to true to hide the RSS feed in the footer
   path: # blank (default) uses feed.xml
 
 # SEO Related
@@ -146,8 +146,8 @@ atom_feed:
 # Analytics
 analytics:
   provider: "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
-  google:
-    tracking_id:
+  # google:
+  #   tracking_id:
 
 # Reading Files
 include:
