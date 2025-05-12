@@ -22,14 +22,14 @@ repository: "jquagga/portfolio"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  #avatar           : "profile.png"
+  avatar: "profile.png"
   name: "Justin Settle"
   pronouns: # example: "she/her"
   bio: "Short biography for the left-hand sidebar"
   location: "Earth"
-  employer: "Red Brick University"
+  employer: "USGS"
   uri: # URL
-  email: "none@example.org"
+  email: "jsettle @ duck.org"
 
   # Academic websites
   academia: # URL
