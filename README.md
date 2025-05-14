@@ -1,1 +1,1 @@
-[analyst.ink](https://analyst.ink) is likely where you'll and to go to see this.
+[analyst.ink](https://analyst.ink) is a collection of projects for my data science portfolio.
